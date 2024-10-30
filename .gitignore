@@ -1,0 +1,9 @@
+// Secrets
+.env
+
+// Terraform state
+terraform.tfstate
+terraform.tfstate.backup
+tfplan
+.terraform.lock.hcl
+.terraform/

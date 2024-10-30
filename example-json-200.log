@@ -1,0 +1,8 @@
+{
+  "level": "INFO",
+  "message": "Request successful",
+  "status_code": 200,
+  "path": "/api/v1/resource",
+  "method": "GET",
+  "response_time_ms": 123
+}
